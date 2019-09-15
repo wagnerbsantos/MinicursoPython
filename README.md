@@ -4,6 +4,7 @@ Ele contém um guia de instalação e os exercícios e exemplos que serão usados na 
 Recomendo que aos que participarão da aula levem o seu notebook se possível, se não for possíve, ainda assim dá pra usar os PCs do laboratório.
 
  ----- Instalação ----
+De preferência instalar python 64-bits.
 Linux:
     sudo apt-get install python3 (ou 3.7)
 Windows:
@@ -24,6 +25,12 @@ Para isso, revisaremos também entrada e saida de dados e formatação do texto.
 
 ------- Parte 2 -----------
 Agora que revisamos o basico sobre python, iniciaremos uma revisão em assuntos mais específicos que serão importantes no entendimento e uso das bibliotecas que serão utilizadas na próxima parte.
+Os tópicos a serem abordados serão:
+-Classes, métodos e orientação a objetos
+-Objetos mutáveis e imutáveis
+-Importação de modulos, classes e funções
+-Manipulação de arquivos
+-Debugging
 
 
 ------- Parte 3 -----------
