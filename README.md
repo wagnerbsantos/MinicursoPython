@@ -12,7 +12,7 @@ Windows:
 	lembrar de adicionar o python no PATH durante a instalação
 Baixar o arquivo https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
-pip install numpy pandas matplolib scipy scikit-learn scikit-image jupyter
+pip install numpy pandas matplolib scipy scikit-learn scikit-image jupyter import_ipynb
 
 Essa ultima linha instala as bibliotecas que usaremos no curso.
 
