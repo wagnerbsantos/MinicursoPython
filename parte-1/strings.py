@@ -5,7 +5,7 @@ texto_formatado = texto.title()
 print(texto_formatado)
 
 lista = texto.split(';')
-pdb.set_trace()
+#pdb.set_trace()
 for frase in lista:
     novo = frase.replace(' ', ' ^_^ ')
     print(frase + ' -> ' + novo)

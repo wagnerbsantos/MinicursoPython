@@ -28,6 +28,5 @@ while contador < len(lista):
 
 print('Escolha um nome do dicionario')
 nome = input()
-conjunto.
 if nome in dicionario.keys():
     print(dicionario[nome])

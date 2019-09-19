@@ -37,5 +37,16 @@ Os tópicos a serem abordados serão:
 Ao começar a lidar com as bibliotecas científicas de python, será necessário em varias ocasiões visualizar tabelas e gráficos.
 Nessa parte inicializaremos a utilização do jupyter que é uma IDE que facilita a escrita e visualização do código e com isso iniciaremos o uso das bibliotecas pandas e matplotlib para entender como se dá a importação de tabelas de dados e como plotar os gráficos.
 
+--------------Material de estudo ----------------------------------
+Tutorial basico de python: https://www.w3schools.com/python/
+Curso python for engineers: https://www.pythonforengineers.com/python-for-scientists-and-engineers/
+Guia de estilo(leitura recomendada para quem quer seguir programando em python): https://www.python.org/dev/peps/pep-0008/
+Tópicos avançados sobre python: https://wiki.python.org.br/CookBook
+Tutorial NumPy: https://numpy.org/devdocs/user/quickstart.html
+Tutorial Matplotlib: https://matplotlib.org/tutorials/index.html
+Tutorial Pandas: https://pandas.pydata.org/pandas-docs/stable/
+Documentação do scikit-learn: https://scikit-learn.org/stable/
+
+
 
 
